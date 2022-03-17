@@ -46,5 +46,5 @@ async def reload(ctx,cog):
 
 
     
-token = "ODcwNTE0MTM3OTQyMzU1OTc4.YQN3dw.mLVpqfadffDKFo024eBLPFGmNvo"
+token = "sike u thought"
 bot.run(token)
